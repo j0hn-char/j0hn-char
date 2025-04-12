@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=j0hn-char)](https://git.io/streak-stats)
+
 <!--
 **j0hn-char/j0hn-char** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
