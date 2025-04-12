@@ -1,5 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=j0hn-char&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0hn-char&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=j0hn-char&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) \n
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hn-char&layout=compact&theme=dark)
 
 <!--
 **j0hn-char/j0hn-char** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
