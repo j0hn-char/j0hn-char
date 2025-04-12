@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=j0hn-char&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=j0hn-char&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hn-char&layout=compact&theme=dark)
 
 <!--
