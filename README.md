@@ -1,4 +1,4 @@
-# Hi, I'm Ioannis (John) Charalampidis 👋
+# Hi, I'm Ioannis Charalampidis 👋
 
 3rd-year Computer Science student at the **University of Macedonia**, Thessaloniki 🇬🇷 — building things I'd actually want to use. I care about clean code, interesting problems, and shipping projects that go beyond coursework.
 
@@ -45,7 +45,3 @@ Currently **Chair of the IEEE UoM Student Branch** and actively targeting softwa
 - 🌐 Based in Thessaloniki, Greece
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
