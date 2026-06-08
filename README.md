@@ -1,4 +1,4 @@
-# Hi, I'm Ioannis Charalampidis 👋
+# Hi, I'm Ioannis Charalampidis
 
 3rd-year Computer Science student at the **University of Macedonia**, Thessaloniki 🇬🇷 — building things I'd actually want to use. I care about clean code, interesting problems, and shipping projects that go beyond coursework.
 
