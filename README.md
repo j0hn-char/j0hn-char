@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ioannis 👋</h1>
+<h1 align="center">Hi, I'm Ioannis </h1>
 
 <p align="center">
   Full-Stack Developer · CS Student @ University of Macedonia · IEEE UoM Student Branch Chair
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=j0hn-char&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" />
