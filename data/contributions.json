@@ -1,17 +1,17 @@
 {
   "username": "j0hn-char",
-  "generated_at": "2026-07-28T09:08:56Z",
+  "generated_at": "2026-07-29T09:13:55Z",
   "range": {
     "start": "2025-07-27",
-    "end": "2026-07-28"
+    "end": "2026-07-29"
   },
   "total_contributions": 202,
   "active_days": 41,
   "avg_per_active_day": 4.9,
   "current_streak": {
-    "length": 2,
-    "start": "2026-07-26",
-    "end": "2026-07-27"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 8,
@@ -1543,6 +1543,10 @@
     },
     {
       "date": "2026-07-28",
+      "count": 0
+    },
+    {
+      "date": "2026-07-29",
       "count": 0
     }
   ]
